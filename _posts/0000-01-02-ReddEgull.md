@@ -1,6 +1,11 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+this
+class
+is 
+dumb
+why
+aren't
+we 
+doing
+more
+practical
+things
